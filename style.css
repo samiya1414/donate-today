@@ -8,22 +8,23 @@ h1 {
 }
 
 .heading-one {
-    color: darkgoldenrod;
+    color: lightcoral;
     padding-left: 10%;
 }
 
 .help-people {
-    color: black;
+    color: gray;
     padding-left: 15%;
 }
 
 .donate-button {
-    padding: 10px 25px;
+    padding: 15px 40px;
     text-decoration: none;
     background-image: linear-gradient(purple, pink);
     font-weight: bold;
     color: bisque;
     border-radius: 5px;
+
 
 }
 
@@ -40,6 +41,151 @@ h1 {
 }
 
 .flex-card {
+    font-size: 25px;
     display: flex;
+    padding-left: 25%;
+}
+
+.feel-free {
+    font-size: 40px;
+    padding-left: 10%;
+}
+
+.donate-ability {
+    padding-left: 5%;
+}
+
+.fifty-taka {
+    padding-left: 20px;
     padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: deeppink;
+    background-color: lightsalmon;
+    border: 1px solid deeppink;
+    border-radius: 5px;
+
+
+    margin-right: 15px;
+}
+
+.ten-taka {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.one-hundred {
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.one-thousand {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.five-thousand {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.other-way {
+    color: grey;
+
+}
+
+
+
+#section-two {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.donate-plan {
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+
+
+}
+
+.food-family {
+    text-align: left;
+
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: darksalmon;
+    border: 1px solid lightsalmon;
+    border-radius: 2px;
+    margin-right: 10px;
+}
+
+.shelter-family {
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: lightblue;
+    border: 1px solid lightblue;
+    border-radius: 2px;
+    margin-right: 10px;
+}
+
+.education-family {
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: lightcoral;
+    border: 1px solid lightcoral;
+    border-radius: 2px;
+}
+
+
+.live-hygeine {
+    text-align: left;
+}
+
+.planing-for {
+    font-size: 40px;
+}
+
+#section-three {
+    text-align: center;
+    padding-top: 10%;
+}
+
+#section-four {
+    display: flex;
+    margin-top: 15%;
+}
+
+.mega-project img {
+    width: 90%;
+    padding-left: 30px;
+    margin-top: 50px;
+}
+
+.true-dream {
+    padding-left: 40px;
+    padding-right: 30px;
+}
+
+.more-peaceful {
+    font-size: 50px;
+}
+
+.learn-more {
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: darksalmon;
+    font-weight: bold;
+    color: bisque;
+    border-radius: 5px;
+
 }

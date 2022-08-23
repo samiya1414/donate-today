@@ -38,6 +38,7 @@ h1 {
     background-image: url(images/donation14.webp);
     width: 95%;
     height: 600px;
+    padding-right: 50px;
 }
 
 .flex-card {
@@ -72,28 +73,73 @@ h1 {
 .ten-taka {
     padding-left: 50px;
     padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
 }
 
 .one-hundred {
     padding-left: 50px;
     padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
 
 }
 
 .one-thousand {
     padding-left: 50px;
     padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
 }
 
 .five-thousand {
     padding-left: 50px;
     padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
 }
 
 .other-way {
     color: grey;
+    border-bottom: 2px solid gray;
+
+
+
 
 }
+
+.donate-now {
+    padding: 5px 30px;
+    text-decoration: none;
+    background-image: linear-gradient(purple, pink);
+    font-weight: bold;
+    color: bisque;
+    border-radius: 5px;
+    margin-top: 100%;
+}
+
+
+
 
 
 
@@ -147,9 +193,7 @@ h1 {
 }
 
 
-.live-hygeine {
-    text-align: left;
-}
+
 
 .planing-for {
     font-size: 40px;

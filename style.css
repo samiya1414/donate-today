@@ -189,3 +189,35 @@ h1 {
     border-radius: 5px;
 
 }
+
+#section-five {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.get-update {
+    font-size: 50px;
+}
+
+.color-button {
+    background-color: lightcoral;
+    boeder: 2px solid lightcoral;
+}
+
+
+
+
+
+
+#last-part {
+    background-color: black;
+    color: khaki;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.be-helpful {
+    color: darksalmon;
+}
